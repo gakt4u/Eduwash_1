@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">EduWash</string>
+    <string name="button_start">Button Start</string>
+    <string name="button_tutorial">Button Tutorial</string>
+    <string name="title_activity_pager">PagerActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="prev">Previous</string>
+    <string name="get_started">Get started</string>
+    <string name="lets_try">Lets Try</string>
+    <string name="onboarding_slide1_desc">An educational application for children about the importance of washing hands properly</string>
+    <string name="onboarding_slide2_desc">Trough machine learning, we are introducing live technology to detecting your handwash movement. Feel so futuristic right!</string>
+    <string name="onboarding_slide3_desc">Supported by cloud technology, this app is running on the cloud so it really lightweight in your device!</string>
+    <string name="about_developer">About developer</string>
+    <string name="change_language">Change language</string>
+    <string name="step_1">Step 1</string>
+    <string name="step_2">Step 2 - Left</string>
+    <string name="step_2R">Step 2 - Right</string>
+    <string name="step_3">Step 3</string>
+    <string name="step_4">Step 4 - Left</string>
+    <string name="step_4R">Step 4 - Right</string>
+    <string name="step_5">Step 5 - Left</string>
+    <string name="step_5R">Step 5 - Right</string>
+    <string name="step_6">Step 6 - Left</string>
+    <string name="step_6R">Step 6 - Right</string>
+    <string name="step_7">Step 7 - Left</string>
+    <string name="step_7R">Step 7 - Right</string>
+    <string name="caption1">Rub both of your palm until the soap spreads evenly</string>
+    <string name="caption2">Rub both of your back hands using the opposite of your palm</string>
+    <string name="caption3">Scrub between your finger by interlacing your fingers and moving it with back and forth motion</string>
+    <string name="caption4">Clean the back of your fingers by rubbing it interlocked fingers in your palm. Repeat this motion for both of your hands</string>
+    <string name="caption5">Rub your thumbs circularly by starts rubbing it in your index hand</string>
+    <string name="caption6">Clean your fingertip using your opposite palm with circular motion</string>
+    <string name="caption7">Rub each of your wrist by using your opposite hand</string>
+
+
+</resources>

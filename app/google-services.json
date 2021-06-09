@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533256420450",
+    "project_id": "causal-medium-313306",
+    "storage_bucket": "causal-medium-313306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533256420450:android:07192e925c574feddaa53b",
+        "android_client_info": {
+          "package_name": "com.example.eduwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533256420450-qhcs7i5p44dakp3al3tq3860jas1c7m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-OMvTjtmWHv9sKyRW6-ozkZKUZpu6o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533256420450-qhcs7i5p44dakp3al3tq3860jas1c7m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
